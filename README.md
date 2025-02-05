@@ -7,6 +7,7 @@ The Prompt Injection Test (PINT) Benchmark provides a neutral way to evaluate th
 | Name | PINT Score | Test Date |
 | ---- | ---------- | --------- |
 | [Lakera Guard](https://lakera.ai/) | 98.0964% | 2024-06-12 |
+| [GuardionAI ModernGuard](https://guardion.ai/) | 95.1501% | 2025-01-25 |
 | [protectai/deberta-v3-base-prompt-injection-v2](https://huggingface.co/protectai/deberta-v3-base-prompt-injection-v2) | 91.5706% | 2024-06-12 |
 | [Meta Prompt Guard](https://github.com/meta-llama/PurpleLlama/tree/main/Prompt-Guard) | 90.4496% | 2024-07-26 |
 | [protectai/deberta-v3-base-prompt-injection](https://huggingface.co/protectai/deberta-v3-base-prompt-injection) | 88.6597% | 2024-06-12 |
